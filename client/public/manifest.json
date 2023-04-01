@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "OpenAI Lab",
+  "name": "OpenAI ChatGPT-3.5 API Lab",
   "icons": [
     {
       "src": "favicon.ico",
